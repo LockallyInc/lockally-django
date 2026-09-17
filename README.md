@@ -1,3 +1,14 @@
+<!-- lockally-brand-header -->
+<p align="center">
+  <a href="https://lockally.com">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LockallyInc/community/main/brand/lockup-dark.png">
+      <img alt="Lockally" src="https://raw.githubusercontent.com/LockallyInc/community/main/brand/lockup-light.png" width="260">
+    </picture>
+  </a>
+</p>
+<!-- /lockally-brand-header -->
+
 # Lockally for Django
 
 Official Django email backend for [Lockally](https://lockally.com). Send
